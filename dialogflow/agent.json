@@ -4,7 +4,7 @@
   "disableInteractionLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "salesforcebot-7bffc",
+    "project": "testmdi-jhasau",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
